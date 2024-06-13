@@ -1,2 +1,4 @@
 # bayroid.github.io
-Data Privacy &amp; Digital Identity Protocol
+🏠 BayroID website
+
+BayroID is a Data Privacy &amp; Digital Identity Protocol
