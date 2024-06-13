@@ -1,0 +1,7 @@
+.container {
+    display: flex;
+    align-items: center; /* Centra verticalmente los elementos */
+  }
+  img {
+    margin-right: 10px; /* Espacio entre la imagen y el encabezado */
+  }
