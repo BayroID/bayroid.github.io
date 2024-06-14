@@ -1,7 +1,23 @@
-.container {
-    display: flex;
-    align-items: center; /* Centra verticalmente los elementos */
-  }
-  img {
-    margin-right: 10px; /* Espacio entre la imagen y el encabezado */
-  }
+.containerTitle {
+  display: flex;
+  align-items: center; /* Centra verticalmente los elementos */
+  font-family: "Roboto";
+  font-weight: 200;
+  line-height: 1.4;
+  font-size: 2rem;
+  
+}
+
+.containerBody1 {
+  display: flex;
+  align-items: center; /* Centra verticalmente los elementos */
+  font-family: "Roboto";
+  font-weight: 40;
+  line-height: 1;
+  font-size: 2rem;
+}
+
+img {
+    margin-right: 20px; /* Espacio entre la imagen y el encabezado */
+    margin-left: 50px;
+}
