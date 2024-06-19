@@ -1,0 +1,23 @@
+.containerTitle {
+  display: flex;
+  align-items: center; /* Centra verticalmente los elementos */
+  font-family: "Roboto";
+  font-weight: 200;
+  line-height: 1.4;
+  font-size: 2rem;
+  color: #532845;
+}
+
+.containerBody1 {
+  display: flex;
+  align-items: center; /* Centra verticalmente los elementos */
+  font-family: "Roboto";
+  font-weight: 40;
+  line-height: 1;
+  font-size: 2rem;
+}
+
+img {
+    margin-right: 20px; /* Espacio entre la imagen y el encabezado */
+    margin-left: 50px;
+}
